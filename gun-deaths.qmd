@@ -1,11 +1,7 @@
 ---
 title: "Gun deaths"
 date: "`r lubridate::today()`"
-format:
-  html:
-    toc: true
-    theme: superhero
-    highlight: a11y
+format: html
 ---
 
 ```{r setup}
